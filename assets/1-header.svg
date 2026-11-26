@@ -1,18 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 220" width="800" height="220">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 250" width="480" height="250">
 <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1220"/><stop offset="1" stop-color="#14304a"/></linearGradient>
-<linearGradient id="wv" x1="0" x2="1"><stop offset="0" stop-color="#e8b84a" stop-opacity=".0"/><stop offset=".5" stop-color="#e8b84a" stop-opacity=".35"/><stop offset="1" stop-color="#e8b84a" stop-opacity="0"/></linearGradient></defs>
-<rect width="800" height="220" rx="16" fill="url(#bg)"/>
-<circle cx="690" cy="60" r="34" fill="#e8b84a" opacity=".85"><animate attributeName="cy" values="60;48;60" dur="6s" repeatCount="indefinite"/><animate attributeName="opacity" values=".85;1;.85" dur="6s" repeatCount="indefinite"/></circle>
-<g><path d="M0 180 Q100 160 200 180 T400 180 T600 180 T800 180 V220 H0Z" fill="url(#wv)"><animateTransform attributeName="transform" type="translate" values="0 0;-200 0" dur="8s" repeatCount="indefinite"/></path>
-<path d="M0 196 Q100 178 200 196 T400 196 T600 196 T800 196 V220 H0Z" fill="#1f5b80" opacity=".5"><animateTransform attributeName="transform" type="translate" values="-200 0;0 0" dur="11s" repeatCount="indefinite"/></path></g>
-<text x="40" y="98" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="52" font-weight="700" fill="#fff" opacity="0">Yahia Reda<animate attributeName="opacity" values="0;1" dur="1.2s" fill="freeze"/><animate attributeName="y" values="112;98" dur="1.2s" fill="freeze"/></text>
-<clipPath id="c0"><rect x="40" y="128" height="34" width="0"><animate attributeName="width" dur="12.0s" repeatCount="indefinite" values="0;0;520;520;0;0" keyTimes="0.0000;0.0000;0.1250;0.2917;0.3167;1.0000"/></rect></clipPath>
-<text x="40" y="154" font-family="'Courier New',monospace" font-size="24" fill="#e8b84a" clip-path="url(#c0)">Freelance web developer</text>
-<clipPath id="c1"><rect x="40" y="128" height="34" width="0"><animate attributeName="width" dur="12.0s" repeatCount="indefinite" values="0;0;520;520;0;0" keyTimes="0.0000;0.3333;0.4583;0.6250;0.6500;1.0000"/></rect></clipPath>
-<text x="40" y="154" font-family="'Courier New',monospace" font-size="24" fill="#e8b84a" clip-path="url(#c1)">Store websites &amp; landing pages</text>
-<clipPath id="c2"><rect x="40" y="128" height="34" width="0"><animate attributeName="width" dur="12.0s" repeatCount="indefinite" values="0;0;520;520;0;0" keyTimes="0.0000;0.6667;0.7917;0.9583;0.9833;1.0000"/></rect></clipPath>
-<text x="40" y="154" font-family="'Courier New',monospace" font-size="24" fill="#e8b84a" clip-path="url(#c2)">Full gym-management systems</text>
-
-<rect x="40" y="170" width="0" height="3" rx="2" fill="#e8b84a"><animate attributeName="width" values="0;120" dur="1.5s" begin="0.5s" fill="freeze"/></rect>
-<text x="40" y="196" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" fill="#9fb6c9">Alexandria, Egypt</text>
-</svg>
+<linearGradient id="wv" x1="0" x2="1"><stop offset="0" stop-color="#e8b84a" stop-opacity="0"/><stop offset=".5" stop-color="#e8b84a" stop-opacity=".35"/><stop offset="1" stop-color="#e8b84a" stop-opacity="0"/></linearGradient></defs>
+<rect width="480" height="250" rx="16" fill="url(#bg)"/>
+<circle cx="400" cy="60" r="30" fill="#e8b84a" opacity=".9"><animate attributeName="cy" values="60;48;60" dur="6s" repeatCount="indefinite"/></circle>
+<path d="M0 205 Q60 188 120 205 T240 205 T360 205 T480 205 T600 205 T720 205 V250 H0Z" fill="url(#wv)"><animateTransform attributeName="transform" type="translate" values="0 0;-240 0" dur="8s" repeatCount="indefinite"/></path>
+<path d="M0 222 Q60 206 120 222 T240 222 T360 222 T480 222 T600 222 T720 222 V250 H0Z" fill="#1f5b80" opacity=".5"><animateTransform attributeName="transform" type="translate" values="-240 0;0 0" dur="11s" repeatCount="indefinite"/></path>
+<text x="28" y="108" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="50" font-weight="700" fill="#fff" opacity="0">Yahia Reda<animate attributeName="opacity" values="0;1" dur="1.2s" fill="freeze"/><animate attributeName="y" values="124;108" dur="1.2s" fill="freeze"/></text>
+<clipPath id="c0"><rect x="28" y="140" height="34" width="0"><animate attributeName="width" dur="12.0s" repeatCount="indefinite" values="0;0;440;440;0;0" keyTimes="0.0000;0.0000;0.1250;0.2917;0.3167;1.0000"/></rect></clipPath>
+<text x="28" y="164" font-family="'Courier New',monospace" font-size="21" font-weight="700" fill="#e8b84a" clip-path="url(#c0)">Freelance web developer</text>
+<clipPath id="c1"><rect x="28" y="140" height="34" width="0"><animate attributeName="width" dur="12.0s" repeatCount="indefinite" values="0;0;440;440;0;0" keyTimes="0.0000;0.3333;0.4583;0.6250;0.6500;1.0000"/></rect></clipPath>
+<text x="28" y="164" font-family="'Courier New',monospace" font-size="21" font-weight="700" fill="#e8b84a" clip-path="url(#c1)">Store websites &amp; landing pages</text>
+<clipPath id="c2"><rect x="28" y="140" height="34" width="0"><animate attributeName="width" dur="12.0s" repeatCount="indefinite" values="0;0;440;440;0;0" keyTimes="0.0000;0.6667;0.7917;0.9583;0.9833;1.0000"/></rect></clipPath>
+<text x="28" y="164" font-family="'Courier New',monospace" font-size="21" font-weight="700" fill="#e8b84a" clip-path="url(#c2)">Full gym-management systems</text>
+<rect x="28" y="184" width="0" height="3" rx="2" fill="#e8b84a"><animate attributeName="width" values="0;110" dur="1.5s" begin="0.5s" fill="freeze"/></rect>
+<text x="28" y="236" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" fill="#c3d3e0">Alexandria, Egypt</text></svg>
