@@ -1,0 +1,3 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 60" width="800" height="60"><rect width="800" height="60" rx="12" fill="#0b1220"/>
+<path d="M0 38 Q100 18 200 38 T400 38 T600 38 T800 38" fill="none" stroke="#e8b84a" stroke-width="2" opacity=".7"><animateTransform attributeName="transform" type="translate" values="0 0;-200 0" dur="6s" repeatCount="indefinite"/></path>
+<text x="400" y="36" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="16" fill="#fff">Let's build yours: yahia-reda.is-a.dev</text></svg>
