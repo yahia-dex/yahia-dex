@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Yahia Reda
 
-<!--
-**yahia-dex/yahia-dex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Freelance web developer from Alexandria, Egypt. I build store websites, landing pages, and complete gym-management systems.
 
-Here are some ideas to get you started:
+## What I build
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- E-commerce and store websites
+- Landing pages
+- Full gym-management systems
+
+## Live work
+
+| Project | Link |
+| --- | --- |
+| Life Fitness - gym website | https://fitnslife.vercel.app/ |
+| Snnop - training platform | https://snnop.vercel.app/ |
+| DM Bookstore - online bookstore | https://dmbooks-teal.vercel.app/ |
+| Ahmed Hatem - personal portfolio | https://ahmedhatem-pied.vercel.app/ |
+
+## Current project
+
+**Skyhaven** - a 3D city built by its followers: every Instagram follower gets a house, and the city grows as the community does.
+[skyhaven city](https://yahia-dex.github.io/hartna-city-3d/)
+
+## Portfolio
+
+My portfolio is an animated walk on the Alexandria corniche - you scroll, and my work appears shop by shop:
+**https://yahia-reda.is-a.dev/**
+
+Reach me through the portfolio.
